@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "Portwell",
+      "maintainer": "Portwell",
+      "websiteURL": "https://www.portwell.com.tw/",
+      "email": "ernie.huang@ortwell.com.tw",
+      "help": {
+        "online": "https://www.portwell.com.tw/"
+      },
+      "platforms": [
+        {
+          "name": "Portwell AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/Portwell/Sense8/tree/master/Arduino_Boards/IDE_Board_Manager/Sense8boards.1.0.0.tar.bz2",
+          "archiveFileName": "Sense8boards.1.0.0.tar.bz2",
+          "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
+          "size": "1162215",
+          "help": {
+            "online": "https://www.portwell.com.tw/"
+          },
+          "boards": [
+            {
+              "name": "Sense8"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "email": "ernie.huang@portwell.com.tw",
+      "name": "ernie"
+    }
+  ]
+}
