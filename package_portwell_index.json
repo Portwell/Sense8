@@ -1,36 +1,109 @@
 {
   "packages": [
     {
-      "name": "Portwell",
-      "maintainer": "Portwell",
-      "websiteURL": "https://www.portwell.com.tw",
-      "email": "ernie.huang@portwell.com.tw",
+      "name": "SparkFun",
+      "maintainer": "SparkFun Electronics",
+      "websiteURL": "https://SparkFun.com",
+      "email": "TechSupport@SparkFun.com",
       "help": {
-        "online": "https://www.portwell.com.tw"
+        "online": "https://forum.sparkfun.com"
       },
       "platforms": [
         {
-          "name": "Portwell AVR Boards",
+          "name": "SparkFun AVR Boards",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.1.5",
           "category": "Contributed",
           "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.5.tar.bz2",
-          "archiveFileName": "Sense8boards.1.0.0.tar",
+          "archiveFileName": "sparkfunboards.1.1.5.tar.bz2",
           "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
           "size": "1162215",
           "help": {
-            "online": "https://www.portwell.com.tw/"
+            "online": "https://forums.sparkfun.com"
           },
           "boards": [
             {
-              "name": "Sense8"
+              "name": "RedBoard"
+            },
+            {
+              "name": "MaKey MaKey"
+            },
+            {
+              "name": "Pro Micro"
+            },
+            {
+              "name": "Fio v3"
+            },
+            {
+              "name": "Qduino Mini"
+            },
+            {
+              "name": "Digital Sandbox"
+            },
+            {
+              "name": "Mega Pro"
+            },
+            {
+              "name": "RedBot"
+            },
+            {
+              "name": "Serial 7-segment Display"
+            },
+            {
+              "name": "ATmega128RFA1 Dev Board"
             }
           ],
           "toolsDependencies": []
-        }
-      ],
-      "email": "ernie.huang@portwell.com.tw",
-      "name": "ernie"
+        },
+        {
+          "name": "SparkFun AVR Boards",
+          "architecture": "avr",
+          "version": "1.1.6",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.6.tar.bz2",
+          "archiveFileName": "sparkfunboards.1.1.6.tar.bz2",
+          "checksum": "SHA-256:049FA0DF51602120EC1BDAC19F440FC0CC448C23BB277DD0D8DF855C52ACD483",
+          "size": "1159276",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "RedBoard"
+            },
+            {
+              "name": "MaKey MaKey"
+            },
+            {
+              "name": "Pro Micro"
+            },
+            {
+              "name": "Fio v3"
+            },
+            {
+              "name": "Qduino Mini"
+            },
+            {
+              "name": "Digital Sandbox"
+            },
+            {
+              "name": "Mega Pro"
+            },
+            {
+              "name": "RedBot"
+            },
+            {
+              "name": "Serial 7-segment Display"
+            },
+            {
+              "name": "ATmega128RFA1 Dev Board"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        ],
+      "email": "ivan@esp8266.com",
+      "name": "esp8266"
     }
   ]
 }
