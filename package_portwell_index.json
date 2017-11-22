@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Portwell/Sense8/blob/master/Arduino_Boards/IDE_Board_Manager/Sense8boards.1.0.0.tar?raw=true",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.5.tar.bz2",
           "archiveFileName": "Sense8boards.1.0.0.tar",
           "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
           "size": "1162215",
