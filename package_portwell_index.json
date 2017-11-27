@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "SparkFun",
-      "maintainer": "SparkFun Electronics",
-      "websiteURL": "https://SparkFun.com",
-      "email": "TechSupport@SparkFun.com",
+      "name": "Portwell",
+      "maintainer": "Portwell",
+      "websiteURL": "https://www.portwell.com.tw",
+      "email": "ernie.huang@portwell.com.tw",
       "help": {
-        "online": "https://forum.sparkfun.com"
+        "online": "https://www.portwell.com.tw"
       },
       "platforms": [
         {
@@ -19,38 +19,11 @@
           "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
           "size": "1162215",
           "help": {
-            "online": "https://forums.sparkfun.com"
+            "online": "https://www.portwell.com.tw"
           },
           "boards": [
             {
-              "name": "RedBoard"
-            },
-            {
-              "name": "MaKey MaKey"
-            },
-            {
-              "name": "Pro Micro"
-            },
-            {
               "name": "Fio v3"
-            },
-            {
-              "name": "Qduino Mini"
-            },
-            {
-              "name": "Digital Sandbox"
-            },
-            {
-              "name": "Mega Pro"
-            },
-            {
-              "name": "RedBot"
-            },
-            {
-              "name": "Serial 7-segment Display"
-            },
-            {
-              "name": "ATmega128RFA1 Dev Board"
             }
           ],
           "toolsDependencies": []
