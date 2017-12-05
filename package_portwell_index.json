@@ -14,16 +14,16 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.5.tar.bz2",
-          "archiveFileName": "sparkfunboards.1.1.5.tar.bz2",
-          "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
-          "size": "1162215",
+          "url": "https://github.com/Portwell/Sense8/raw/master/Arduino_Boards/IDE_Board_Manager/Sense8_32u4_boards-master.1.0.0.tar",
+          "archiveFileName": "Sense8_32u4_boards-master.1.0.0.tar",
+          "checksum": "SHA-256:F777048BF36DB521AD4E56A83F67E85C4DF6D67C4BC2C0A06D02B3D2CC96C2B9",
+          "size": "15327232",
           "help": {
             "online": "https://www.portwell.com.tw"
           },
           "boards": [
             {
-              "name": "Fio v3"
+              "name": "Sense8"
             }
           ],
           "toolsDependencies": []
