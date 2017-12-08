@@ -16,3 +16,5 @@ Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the
 ![image](https://github.com/Portwell/Sense8/blob/master/manager1.jpg)
 If you type "Portwell" (without quotes) into the "filter your search" field, you will see options to install Portwell's AVR board files. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
 ![image](https://github.com/Portwell/Sense8/blob/master/manager2.jpg)
+You're now ready to use Portwell Sense8 boards.
+![image](https://github.com/Portwell/Sense8/blob/master/manager3.jpg)
