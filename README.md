@@ -14,3 +14,5 @@ To add board support for our products, start Arduino and open the Preferences wi
 ### AVR Installation Instructions
 Open the Boards Manager window by selecting **Tools** > **Board**, scroll to the top of the board list, and select **Boards Manager**.
 ![image](https://github.com/Portwell/Sense8/blob/master/manager1.jpg)
+If you type "sparkfun" (without quotes) into the "filter your search" field, you will see options to install SparkFun's AVR and ESP board files. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
+![image](https://github.com/Portwell/Sense8/blob/master/manager2.jpg)
