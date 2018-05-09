@@ -1,0 +1,2 @@
+@ECHO OFF
+IF "%1"=="Sense8" avrdude -p m32u4 -P usb -c avrispmkii -U flash:w:Caterina-Sense8.hex -U efuse:w:0xfe:m -U hfuse:w:0xd8:m -U lfuse:w:0xff:m
